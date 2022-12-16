@@ -3,6 +3,9 @@
     "target": "es5",
     "module": "esnext",
     "baseUrl": "./",
+    "types": [
+      "unplugin-vue2-script-setup/types"
+    ],
     "moduleResolution": "node",
     "paths": {
       "@/*": [
